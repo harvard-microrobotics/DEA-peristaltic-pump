@@ -1,1 +1,3 @@
-# DEA-peristaltic-pump
+# DEA peristaltic pump
+
+## Data overview
