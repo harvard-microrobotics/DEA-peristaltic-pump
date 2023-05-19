@@ -1,8 +1,8 @@
 # DEA peristaltic pump
 
 ## Data overview
-This folder contains the data and matlab script for figures reported in the paper entitiled 'A compact dielectric-elastomer-actuator-based soft peristaltic pump for power and control of fluidic robots'
-The data includes 7 folders: DEA characterization, Comsol model, DEA-tracked videos, Pump chatacterization, Pumping of various liquids, Haptic actuator demo, and Finger actuator demo. The content of each folder is decribed below. Each folder contains the measured data, matlab scripts to plot the figure, and saved matlab figures. 
+###This folder contains the data and matlab script for figures reported in the paper entitiled 'A compact dielectric-elastomer-actuator-based soft peristaltic pump for power and control of fluidic robots'
+###The data includes 7 folders: DEA characterization, Comsol model, DEA-tracked videos, Pump chatacterization, Pumping of various liquids, Haptic actuator demo, and Finger actuator demo. The content of each folder is decribed below. Each folder contains the measured data, matlab scripts to plot the figure, and saved matlab figures. 
 DEA characterization: inludes data of DEA displacement chanracterization, blocked force characterization, and power consumption characterization. These data correspond to Figure 2, Figure S4, and Figure S5.
 Comsol model: inludes pump performance as a function DEA separation distance, phase shift, number of actuators, and liquid viscosity. These data are directly exported from the Comsol model. These data correspond to Figure 3, and Figure S7 in the manuscript.
 DEA tracking videos: inludes data of tracked DEA displacement from a video captured by a high speed camera. These data correspond to Figure 2.
